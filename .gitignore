@@ -60,8 +60,14 @@ out/
 ### VS Code ###
 .vscode/
 
-Spring-Basic/.gradle
-Spring-Basic/.idea
-Spring-Basic/build
-Spring-Basic/out
-Spring-Basic/HELP.md
+spring-basic/.gradle
+spring-basic/.idea
+spring-basic/build
+spring-basic/out
+spring-basic/HELP.md
+
+spring-begin/.gradle
+spring-begin/.idea
+spring-begin/build
+spring-begin/out
+spring-begin/HELP.md
