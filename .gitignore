@@ -59,3 +59,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+Spring-Basic/.gradle
+Spring-Basic/.idea
+Spring-Basic/build
+Spring-Basic/out
+Spring-Basic/HELP.md
