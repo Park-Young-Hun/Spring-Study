@@ -1,5 +1,6 @@
 package begin.springbegin;
 
+import begin.springbegin.aop.TimeTraceAop;
 import begin.springbegin.repository.JpaMemberRepository;
 import begin.springbegin.repository.MemberRepository;
 import begin.springbegin.service.MemberService;
